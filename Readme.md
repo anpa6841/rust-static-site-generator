@@ -1,11 +1,6 @@
-### Static Site Generator
+## Static Site Generator
 
-### How To Run
+This project is documented on DeepWiki.
 
-- cargo build && cargo run
-- ls public // list all generated html files
-- cargo test
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/anpa6841/rust-static-site-generator)
 
-<img src="./example.png" alt="drawing" width="400"/>
-
-<img src="./about.png" alt="drawing" width="400"/>
